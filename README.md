@@ -29,7 +29,7 @@
 
 ## 🌐 Socials:
 <!-- 🔧 TODO: update your links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/riththikkansairam2002)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_HACKERRANK/)
@@ -99,7 +99,7 @@
 
 ## 🔧 Featured Projects
 - **HydroTech (Smart H₂O)** – self-powered water metering, leak/theft detection, remote valve control, dashboards  
-- **Tea Packaging Defect Inspection** – YOLOv8 + autoencoders + PLC reject on high-speed conveyor  
+- **Tea Packaging Defect Inspection** – Metal Detectors + autoencoders + PLC reject on high-speed conveyor  
 - **Energy Metering** – ATM90E32/PZEM telemetry + analytics  
 - **Robotics** – Line tracking, maze solving, sensor fusion
 
@@ -107,8 +107,8 @@
 
 ## 📫 Contact
 - Email: riththikkansairam@gmail.com  
-- LinkedIn: `https://www.linkedin.com/in/YOUR_LINKEDIN/`  
-- Portfolio: `https://YOUR_PORTFOLIO_OR_SITE/`
+- LinkedIn: www.linkedin.com/in/riththikkansairam2002  
+<!-- Portfolio: `https://YOUR_PORTFOLIO_OR_SITE/`-->
 
 <!-- Footer -->
 <p align="center">Made with ❤️, oscilloscopes, and serial monitors.</p>
