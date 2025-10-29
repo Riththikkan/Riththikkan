@@ -4,9 +4,9 @@
    ========================= -->
 
 <!-- Banner (🔧 TODO: replace with your image link or /assets/banner.png) -->
-<p align="center">
+<!--<p align="center">
   <img src="BANNER_IMAGE_URL_HERE" alt="Profile banner" width="100%" />
-</p>
+</p>-->
 
 <h1 align="center">Hi, I'm Riththikkan 👋</h1>
 <h3 align="center">IoT • Robotics • AI/ML • Embedded Systems</h3>
@@ -20,8 +20,8 @@
 
 ## 🐤 About Me
 - Team Lead @ **HydroTech (Smart H₂O)** – self-powered water metering, leak/theft detection, remote valves, web & mobile dashboards  
-- Building **tea packaging defect inspection** (YOLO/autoencoder + PLC reject)  
-- I design **PCBs & edge devices** (ESP32, LoRa, sensors) and write **ML/CV** backends (PyTorch/OpenCV/FastAPI)  
+- Building **tea packaging defect inspection** (Metel Detector+ PLC reject)  
+- I design **PCBs & edge devices** (ESP32, LoRa, sensors)   
 - Speak **Sinhala • Tamil • English**; enjoy sports & hands-on competitions  
 - Open to collabs in **water, manufacturing, and smart infrastructure**
 
