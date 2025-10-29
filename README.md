@@ -9,7 +9,7 @@
 </p>-->
 
 <h1 align="center">Hi, I'm Riththikkan 👋</h1>
-<h3 align="center">IoT • Robotics • AI/ML • Embedded Systems</h3>
+<h3 align="center">IoT • Robotics • Embedded Systems</h3>
 
 <p align="center">
   🌱 I'm studying <b>Electronics & Computer Science</b> and building real-world systems:
